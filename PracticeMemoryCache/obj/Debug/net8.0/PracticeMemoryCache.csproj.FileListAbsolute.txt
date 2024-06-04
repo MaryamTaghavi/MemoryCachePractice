@@ -1,0 +1,4 @@
+C:\Users\Admin\RiderProjects\PracticeMemoryCache\PracticeMemoryCache\obj\Debug\net8.0\PracticeMemoryCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\PracticeMemoryCache\PracticeMemoryCache\obj\Debug\net8.0\PracticeMemoryCache.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\PracticeMemoryCache\PracticeMemoryCache\obj\Debug\net8.0\PracticeMemoryCache.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\PracticeMemoryCache\PracticeMemoryCache\obj\Debug\net8.0\PracticeMemoryCache.csproj.CoreCompileInputs.cache
